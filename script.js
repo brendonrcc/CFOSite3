@@ -783,7 +783,7 @@
         return (
             <div className="my-6 animate-fade-in bg-white dark:bg-[#0c120e] border border-brand/30 rounded-sm shadow-lg overflow-hidden relative">
                 <div className="bg-brand/10 px-4 py-2 flex items-center justify-between border-b border-brand/10">
-                    <span className="text-[10px] font-bold uppercase tracking-widest text-brand font-condensed flex items-center gap-2"><Lock size={10} /> Canal Seguro</span>
+                    <span className="text-[10px] font-bold uppercase tracking-widest text-brand font-condensed flex items-center gap-2"><Lock size={10} /> Mensagem Privada</span>
                     <button onClick={() => setIsOpen(false)} className="text-slate-400 hover:text-red-500 transition-colors"><X size={14} /></button>
                 </div>
                 <div className="p-4 flex gap-2">
